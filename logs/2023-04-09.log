@@ -1,0 +1,394 @@
+[38;5;8m2023-04-09 00:01:26[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.ts[0m
+[38;5;8m2023-04-09 00:01:31[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.ts[0m
+[38;5;8m2023-04-09 00:15:03[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.ts[0m
+[38;5;8m2023-04-09 00:31:35[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.ts[0m
+[38;5;8m2023-04-09 00:36:02[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.ts[0m
+[38;5;8m2023-04-09 00:44:03[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.ts[0m
+[38;5;8m2023-04-09 00:44:33[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.ts[0m
+[38;5;8m2023-04-09 00:45:52[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.ts[0m
+[38;5;8m2023-04-09 00:46:00[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.ts[0m
+[38;5;8m2023-04-09 00:46:09[0m [W] [38;5;78;1mapp[0m TypeError: unknown table name "onebot/chatgpt"
+                            at SQLiteDriver.model (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\driver.ts:217:13)
+                            at null.Executable (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\selection.ts:56:42)
+                            at null.Selection (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\selection.ts:133:5)
+                            at DatabaseService.select (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\driver.ts:110:12)
+                            at DatabaseService.get (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\driver.ts:134:17)
+                            at _Command.<anonymous> (d:\workplace\bot-zzq\external\gpt\src\index.ts:18:37)
+                            at Array.<anonymous> (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\command\command.ts:285:27)
+                            at Object.argv.next (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\command\command.ts:297:14)
+                            at _Command.execute (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\command\command.ts:301:33)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[38;5;8m2023-04-09 00:46:32[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.ts[0m
+[38;5;8m2023-04-09 00:50:57[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.ts[0m
+[38;5;8m2023-04-09 00:51:05[0m [W] [38;5;78;1mapp[0m TypeError: unknown table name "onebot/chatgpt"
+                            at SQLiteDriver.model (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\driver.ts:217:13)
+                            at null.Executable (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\selection.ts:56:42)
+                            at null.Selection (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\selection.ts:133:5)
+                            at DatabaseService.select (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\driver.ts:110:12)
+                            at DatabaseService.get (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\driver.ts:134:17)
+                            at _Command.<anonymous> (d:\workplace\bot-zzq\external\gpt\src\index.ts:19:33)
+                            at Array.<anonymous> (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\command\command.ts:285:27)
+                            at Object.argv.next (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\command\command.ts:297:14)
+                            at _Command.execute (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\command\command.ts:301:33)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[38;5;8m2023-04-09 00:51:21[0m [W] [38;5;78;1mapp[0m TypeError: unknown table name "onebot/chatgpt"
+                            at SQLiteDriver.model (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\driver.ts:217:13)
+                            at null.Executable (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\selection.ts:56:42)
+                            at null.Selection (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\selection.ts:133:5)
+                            at DatabaseService.select (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\driver.ts:110:12)
+                            at DatabaseService.get (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\driver.ts:134:17)
+                            at _Command.<anonymous> (d:\workplace\bot-zzq\external\gpt\src\index.ts:19:33)
+                            at Array.<anonymous> (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\command\command.ts:285:27)
+                            at Object.argv.next (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\command\command.ts:297:14)
+                            at _Command.execute (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\command\command.ts:301:33)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[38;5;8m2023-04-09 00:54:14[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.ts[0m
+[38;5;8m2023-04-09 00:54:36[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.ts[0m
+[38;5;8m2023-04-09 01:02:12[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.ts[0m
+[38;5;8m2023-04-09 01:02:12[0m [I] [38;5;209;1msqlite[0m auto creating table [38;5;209mchatrecord[0m
+[38;5;8m2023-04-09 01:02:34[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.ts[0m
+[38;5;8m2023-04-09 01:04:11[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.ts[0m
+[38;5;8m2023-04-09 01:04:11[0m [I] [38;5;209;1msqlite[0m auto creating table [38;5;209mchatgpt[0m
+[38;5;8m2023-04-09 01:11:46[0m [W] [38;5;167;1mwatch[0m Error: ENOENT: no such file or directory, open 'D:\workplace\bot-zzq\external\gpt\src\index.ts'
+                            at Object.openSync (node:fs:585:3)
+                            at Object.readFileSync (node:fs:453:35)
+                            at Module._extensions..js (node:internal/modules/cjs/loader:1118:18)
+                            at Object.newLoader [as .ts] (D:\workplace\bot-zzq\node_modules\esbuild-register\dist\node.js:2262:9)
+                            at Module.load (node:internal/modules/cjs/loader:981:32)
+                            at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+                            at Module.require (node:internal/modules/cjs/loader:1005:19)
+                            at require (node:internal/modules/cjs/helpers:102:18)
+                            at Watcher.triggerLocalReload (D:\workplace\bot-zzq\node_modules\@koishijs\plugin-hmr\src\index.ts:260:44)
+                            at null.<anonymous> (D:\workplace\bot-zzq\node_modules\@koishijs\plugin-hmr\src\index.ts:90:74)
+[38;5;8m2023-04-09 01:14:02[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.12.3[0m
+[38;5;8m2023-04-09 01:14:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-04-09 01:14:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-04-09 01:14:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-04-09 01:14:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-04-09 01:14:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-04-09 01:14:03[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-04-09 01:14:04[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-04-09 01:14:04[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-04-09 01:14:04[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-04-09 01:14:04[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-04-09 01:14:04[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-04-09 01:14:04[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-04-09 01:14:04[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-04-09 01:14:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-04-09 01:14:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-04-09 01:14:06[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-04-09 01:14:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:storage[0m
+[38;5;8m2023-04-09 01:14:05[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-04-09 01:14:06[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-04-09 01:14:06[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-04-09 01:14:06[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:develop[0m
+[38;5;8m2023-04-09 01:14:06[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-04-09 01:14:06[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhmr[0m
+[38;5;8m2023-04-09 01:14:07[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgpt:usphl2[0m
+[38;5;8m2023-04-09 01:14:09[0m [I] [38;5;204;1massets[0m missing config "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-04-09 01:14:09[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://127.0.0.1:5140[0m
+[38;5;8m2023-04-09 01:14:20[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
+[38;5;8m2023-04-09 01:15:35[0m [W] [38;5;167;1mwatch[0m { detail: [90mundefined[39m, id: [32m''[39m, location: { column: [33m10[39m, file: [32m'D:\\workplace\\bot-zzq\\external\\gpt\\src\\fetch.ts'[39m, length: [33m1[39m, line: [33m20[39m, lineText: [32m'    answer: result,'[39m, namespace: [32m''[39m, suggestion: [32m'}'[39m }, notes: [], pluginName: [32m''[39m, text: [32m'Expected "}" but found ":"'[39m }
+[38;5;8m2023-04-09 01:16:17[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 01:17:12[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 01:18:57[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 01:19:06[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 01:19:26[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 01:20:15[0m [W] [38;5;215;1mcommand[0m rexbtu 请问三国演义是什么
+                        TypeError: unknown field "chatRecord.0.message.role" in model chatgpt
+                            at null.<anonymous> (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\model.ts:158:17)
+                            at Array.map (<anonymous>)
+                            at Model.format (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\model.ts:149:28)
+                            at null.<anonymous> (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\model.ts:161:14)
+                            at Array.map (<anonymous>)
+                            at Model.format (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\model.ts:149:28)
+                            at null.<anonymous> (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\model.ts:161:14)
+                            at Array.map (<anonymous>)
+                            at Model.format (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\model.ts:149:28)
+                            at null.<anonymous> (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\model.ts:161:14)
+[38;5;8m2023-04-09 01:21:10[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 01:21:59[0m [W] [38;5;215;1mcommand[0m rexbtu 请问三国演义是什么
+                        TypeError: unknown field "chatRecord" in model chatgpt
+                            at null.<anonymous> (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\model.ts:158:17)
+                            at Array.map (<anonymous>)
+                            at Model.format (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\model.ts:149:28)
+                            at DatabaseService.set (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\driver.ts:148:40)
+                            at _Command.<anonymous> (d:\workplace\bot-zzq\external\gpt\src\index.tsx:40:24)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at Array.<anonymous> (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\command\command.ts:285:14)
+                            at _Command.execute (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\command\command.ts:301:22)
+                            at null.<anonymous> (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\session.ts:388:22)
+                            at Session2.withScope (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\session.ts:266:14)
+[38;5;8m2023-04-09 01:23:23[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 01:23:23[0m [I] [38;5;209;1msqlite[0m auto updating table [38;5;209mchatgpt[0m
+[38;5;8m2023-04-09 01:25:12[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 01:25:58[0m [W] [38;5;215;1mcommand[0m rexbtu 请问三国演义是什么
+                        TypeError: cannot modify primary key
+                            at DatabaseService.set (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\driver.ts:146:13)
+                            at _Command.<anonymous> (d:\workplace\bot-zzq\external\gpt\src\index.tsx:40:24)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at Array.<anonymous> (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\command\command.ts:285:14)
+                            at _Command.execute (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\command\command.ts:301:22)
+                            at null.<anonymous> (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\session.ts:388:22)
+                            at Session2.withScope (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\session.ts:266:14)
+                            at null.next (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\middleware.ts:312:16)
+                            at null.next (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\middleware.ts:312:16)
+                            at Processor._handleMessage (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\middleware.ts:323:22)
+[38;5;8m2023-04-09 01:26:03[0m [I] [38;5;32;1mgocqhttp[0m https://docs.qq.com/doc/DYWtrWVZSZW1ydWpS[CQ:image,file=c1201fd635b115779239206f4dea97e1.image,subType=0,url=https://gchat.qpic.cn/gchatpic_new/2854196310/780288114-3110156240-C1201FD635B115779239206F4DEA97E1/0?term=2&amp;is_origin=0]
+[38;5;8m2023-04-09 01:26:03[0m [I] [38;5;32;1mgocqhttp[0m ——来自群管理员（1106823162）的编辑 (-67445430)
+[38;5;8m2023-04-09 01:26:56[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 01:27:46[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 01:29:27[0m [W] [38;5;209;1msqlite[0m > INSERT INTO `chatgpt` (`charRecord`, `chatRecord`, `id`) VALUES ('', '[{"message":{"role":"assistant","content":"三国演义是一部中国古代小说，讲述了三国时期（220年-280年）中国的历史事件和人物。小说作者是明代小说家罗贯中，小说的创作年代大约在14世纪末到15世纪初。小说的主要人物有刘备、关羽、张飞、曹操、孙权、诸葛亮等。小说描写了三国时期的政治、军事、文化和社会生活，是中国文学史上的经典之作。"},"finish_reason":"stop","index":0}]', '3340261471')
+[38;5;8m2023-04-09 01:29:27[0m [W] [38;5;215;1mcommand[0m rexbtu 请问三国演义是什么
+                        Error: UNIQUE constraint failed: chatgpt.id
+                            at f.handleError (D:\workplace\bot-zzq\node_modules\@minatojs\sql.js\dist\sql-wasm.js:91:290)
+                            at c.step (D:\workplace\bot-zzq\node_modules\@minatojs\sql.js\dist\sql-wasm.js:81:394)
+                            at c.run (D:\workplace\bot-zzq\node_modules\@minatojs\sql.js\dist\sql-wasm.js:84:116)
+                            at null.<anonymous> (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:263:42)
+                            at SQLiteDriver.#exec (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:237:22)
+                            at SQLiteDriver.#run (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:263:5)
+                            at SQLiteDriver.#create (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:342:12)
+                            at SQLiteDriver.create (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:348:20)
+                            at Executable.execute (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\selection.ts:98:40)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[38;5;8m2023-04-09 10:11:27[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> unexpected disconnect: read tcp 10.12.206.33:56455->221.238.41.89:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[38;5;8m2023-04-09 10:11:27[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> connect server error: dial tcp error: dial tcp 180.102.191.164:14000: connectex: A socket operation was attempted to an unreachable host.
+[38;5;8m2023-04-09 10:11:27[0m [E] [38;5;32;1mgocqhttp[0m Protocol -> connect server error: dial tcp error: dial tcp 180.102.191.164:14000: connectex: A socket operation was attempted to an unreachable host.
+[38;5;8m2023-04-09 10:11:27[0m [W] [38;5;32;1mgocqhttp[0m Bot已离线: connection dropped by server.
+[38;5;8m2023-04-09 10:11:30[0m [W] [38;5;32;1mgocqhttp[0m 将在 3 秒后尝试重连. 重连次数：2/0
+[38;5;8m2023-04-09 10:11:33[0m [W] [38;5;32;1mgocqhttp[0m 尝试重连... 
+[38;5;8m2023-04-09 10:11:33[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
+[38;5;8m2023-04-09 10:12:16[0m [I] [38;5;32;1mgocqhttp[0m ——来自群管理员（1106823162）的编辑 (-1440086280)
+[38;5;8m2023-04-09 10:12:16[0m [I] [38;5;32;1mgocqhttp[0m https://docs.qq.com/doc/DYWtrWVZSZW1ydWpS[CQ:image,file=c1201fd635b115779239206f4dea97e1.image,subType=0,url=https://gchat.qpic.cn/gchatpic_new/2854196310/780288114-2357084454-C1201FD635B115779239206F4DEA97E1/0?term=2&amp;is_origin=0]
+[38;5;8m2023-04-09 10:52:10[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 10:52:10[0m [I] [38;5;209;1msqlite[0m auto migrating table [38;5;209mchatgpt[0m
+[38;5;8m2023-04-09 10:52:10[0m [W] [38;5;209;1msqlite[0m > CREATE TABLE `chatgpt_temp` (`id` TEXT NOT NULL PRIMARY KEY AUTOINCREMENT, `charRecord` TEXT NULL DEFAULT '', `chatRecord` TEXT NULL DEFAULT '')
+[38;5;8m2023-04-09 10:52:10[0m [W] [38;5;78;1mapp[0m Error: AUTOINCREMENT is only allowed on an INTEGER PRIMARY KEY
+                            at f.handleError (D:\workplace\bot-zzq\node_modules\@minatojs\sql.js\dist\sql-wasm.js:91:290)
+                            at f.prepare (D:\workplace\bot-zzq\node_modules\@minatojs\sql.js\dist\sql-wasm.js:90:46)
+                            at SQLiteDriver.#exec (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:236:28)
+                            at SQLiteDriver.#run (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:263:5)
+                            at SQLiteDriver.prepare (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:172:7)
+                            at DatabaseService.prepare (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\driver.ts:92:33)
+                            at runMicrotasks (<anonymous>)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[38;5;8m2023-04-09 10:52:47[0m [W] [38;5;78;1mapp[0m Error: AUTOINCREMENT is only allowed on an INTEGER PRIMARY KEY
+                            at f.handleError (D:\workplace\bot-zzq\node_modules\@minatojs\sql.js\dist\sql-wasm.js:91:290)
+                            at f.prepare (D:\workplace\bot-zzq\node_modules\@minatojs\sql.js\dist\sql-wasm.js:90:46)
+                            at SQLiteDriver.#exec (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:236:28)
+                            at SQLiteDriver.#run (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:263:5)
+                            at SQLiteDriver.prepare (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:172:7)
+                            at DatabaseService.prepare (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\driver.ts:92:33)
+                            at runMicrotasks (<anonymous>)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[38;5;8m2023-04-09 10:52:47[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 10:53:20[0m [W] [38;5;78;1mapp[0m Error: AUTOINCREMENT is only allowed on an INTEGER PRIMARY KEY
+                            at f.handleError (D:\workplace\bot-zzq\node_modules\@minatojs\sql.js\dist\sql-wasm.js:91:290)
+                            at f.prepare (D:\workplace\bot-zzq\node_modules\@minatojs\sql.js\dist\sql-wasm.js:90:46)
+                            at SQLiteDriver.#exec (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:236:28)
+                            at SQLiteDriver.#run (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:263:5)
+                            at SQLiteDriver.prepare (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:172:7)
+                            at DatabaseService.prepare (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\driver.ts:92:33)
+                            at runMicrotasks (<anonymous>)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[38;5;8m2023-04-09 10:53:20[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 10:53:42[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 10:53:42[0m [W] [38;5;78;1mapp[0m Error: AUTOINCREMENT is only allowed on an INTEGER PRIMARY KEY
+                            at f.handleError (D:\workplace\bot-zzq\node_modules\@minatojs\sql.js\dist\sql-wasm.js:91:290)
+                            at f.prepare (D:\workplace\bot-zzq\node_modules\@minatojs\sql.js\dist\sql-wasm.js:90:46)
+                            at SQLiteDriver.#exec (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:236:28)
+                            at SQLiteDriver.#run (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:263:5)
+                            at SQLiteDriver.prepare (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:172:7)
+                            at DatabaseService.prepare (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\driver.ts:92:33)
+                            at runMicrotasks (<anonymous>)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[38;5;8m2023-04-09 10:53:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:basic[0m
+[38;5;8m2023-04-09 10:53:52[0m [I] [38;5;78;1mapp[0m [38;5;15;1mKoishi/4.12.3[0m
+[38;5;8m2023-04-09 10:53:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:entry[0m
+[38;5;8m2023-04-09 10:53:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhelp[0m
+[38;5;8m2023-04-09 10:53:52[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mcommands[0m
+[38;5;8m2023-04-09 10:53:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mrate-limit[0m
+[38;5;8m2023-04-09 10:53:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlocales[0m
+[38;5;8m2023-04-09 10:53:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78manalytics[0m
+[38;5;8m2023-04-09 10:53:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:console[0m
+[38;5;8m2023-04-09 10:53:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mlogger[0m
+[38;5;8m2023-04-09 10:53:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mconsole[0m
+[38;5;8m2023-04-09 10:53:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdataview[0m
+[38;5;8m2023-04-09 10:53:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mmarket[0m
+[38;5;8m2023-04-09 10:53:53[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78minsight[0m
+[38;5;8m2023-04-09 10:53:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mstatus[0m
+[38;5;8m2023-04-09 10:53:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78msandbox[0m
+[38;5;8m2023-04-09 10:53:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mdatabase-sqlite[0m
+[38;5;8m2023-04-09 10:53:54[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:storage[0m
+[38;5;8m2023-04-09 10:53:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78massets-local[0m
+[38;5;8m2023-04-09 10:53:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:adapter[0m
+[38;5;8m2023-04-09 10:53:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgroup:develop[0m
+[38;5;8m2023-04-09 10:53:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78madapter-onebot[0m
+[38;5;8m2023-04-09 10:53:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgocqhttp[0m
+[38;5;8m2023-04-09 10:53:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mhmr[0m
+[38;5;8m2023-04-09 10:53:55[0m [I] [38;5;78;1mapp[0m apply plugin [38;5;78mgpt:usphl2[0m
+[38;5;8m2023-04-09 10:53:57[0m [I] [38;5;78;1mapp[0m server listening at [38;5;78mhttp://127.0.0.1:5140[0m
+[38;5;8m2023-04-09 10:53:57[0m [I] [38;5;204;1massets[0m missing config "selfUrl", fallback to "file:" scheme
+[38;5;8m2023-04-09 10:54:01[0m [W] [38;5;32;1mgocqhttp[0m Protocol -> device lock is disable. http api may fail.
+[38;5;8m2023-04-09 10:54:33[0m [W] [38;5;209;1msqlite[0m > INSERT INTO `chatgpt` (`chatRecord`, `id`) VALUES ('[{"message":{"role":"assistant","content":"《三国演义》是中国古代小说之一，描写了中国历史上汉末三国时期的政治、军事和文化生活。小说以三国时期的政治和军事事件为背景，描写了蜀汉、魏国和东吴的兴衰史，塑造了许多历史人物的形象，如刘备、关羽、张飞、曹操、孙权、周瑜、诸葛亮等等，成为中国文学史上的经典之作。"},"finish_reason":"stop","index":0}]', 3340261471)
+[38;5;8m2023-04-09 10:54:34[0m [W] [38;5;215;1mcommand[0m rexbtu 请问三国演义是什么
+                        Error: UNIQUE constraint failed: chatgpt.id
+                            at f.handleError (D:\workplace\bot-zzq\node_modules\@minatojs\sql.js\dist\sql-wasm.js:91:290)
+                            at c.step (D:\workplace\bot-zzq\node_modules\@minatojs\sql.js\dist\sql-wasm.js:81:394)
+                            at c.run (D:\workplace\bot-zzq\node_modules\@minatojs\sql.js\dist\sql-wasm.js:84:116)
+                            at null.<anonymous> (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:263:42)
+                            at SQLiteDriver.#exec (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:237:22)
+                            at SQLiteDriver.#run (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:263:5)
+                            at SQLiteDriver.#create (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:342:12)
+                            at SQLiteDriver.create (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:348:20)
+                            at Executable.execute (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\selection.ts:98:40)
+                            at runMicrotasks (<anonymous>)
+[38;5;8m2023-04-09 11:01:07[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:01:56[0m [W] [38;5;209;1msqlite[0m > INSERT INTO `chatgpt` (`chatRecord`, `id`) VALUES ('[{"message":{"role":"assistant","content":"《三国演义》是一部中国古代小说，描写了中国三国时期的历史和人物。小说由明代作家罗贯中所著，成书于14世纪末至15世纪初。小说以三国时期的政治斗争、军事争霸、人物传奇等为主题，描写了诸如刘备、关羽、张飞、曹操、孙权等历史人物的生平事迹和英雄形象，被誉为中国文学史上的经典之一。"},"finish_reason":"stop","index":0}]', 3340261471)
+[38;5;8m2023-04-09 11:01:56[0m [W] [38;5;215;1mcommand[0m rexbtu 请问三国演义是什么
+                        Error: UNIQUE constraint failed: chatgpt.id
+                            at f.handleError (D:\workplace\bot-zzq\node_modules\@minatojs\sql.js\dist\sql-wasm.js:91:290)
+                            at c.step (D:\workplace\bot-zzq\node_modules\@minatojs\sql.js\dist\sql-wasm.js:81:394)
+                            at c.run (D:\workplace\bot-zzq\node_modules\@minatojs\sql.js\dist\sql-wasm.js:84:116)
+                            at null.<anonymous> (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:263:42)
+                            at SQLiteDriver.#exec (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:237:22)
+                            at SQLiteDriver.#run (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:263:5)
+                            at SQLiteDriver.#create (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:342:12)
+                            at SQLiteDriver.create (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:348:20)
+                            at Executable.execute (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\selection.ts:98:40)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[38;5;8m2023-04-09 11:02:23[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:02:31[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:03:20[0m [W] [38;5;215;1mcommand[0m rexbtu 请问三国演义是什么
+                        Error: UNIQUE constraint failed: chatgpt.id
+                            at f.handleError (D:\workplace\bot-zzq\node_modules\@minatojs\sql.js\dist\sql-wasm.js:91:290)
+                            at c.step (D:\workplace\bot-zzq\node_modules\@minatojs\sql.js\dist\sql-wasm.js:81:394)
+                            at c.run (D:\workplace\bot-zzq\node_modules\@minatojs\sql.js\dist\sql-wasm.js:84:116)
+                            at null.<anonymous> (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:263:42)
+                            at SQLiteDriver.#exec (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:237:22)
+                            at SQLiteDriver.#run (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:263:5)
+                            at SQLiteDriver.#create (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:342:12)
+                            at SQLiteDriver.create (D:\workplace\bot-zzq\node_modules\@minatojs\driver-sqlite\src\index.ts:348:20)
+                            at Executable.execute (D:\workplace\bot-zzq\node_modules\@minatojs\core\src\selection.ts:98:40)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[38;5;8m2023-04-09 11:03:20[0m [W] [38;5;209;1msqlite[0m > INSERT INTO `chatgpt` (`chatRecord`, `id`) VALUES ('[{"message":{"role":"assistant","content":"《三国演义》是一部中国古代小说，描写了中国东汉末年至三国时期的历史和人物，作者是明代小说家罗贯中。小说中主要描写了曹操、刘备、孙权等三国时期的诸侯之间的政治斗争、军事战争以及后来的三国鼎立。《三国演义》以其丰富的情节、生动的人物形象、深刻的思想内涵而成为中国文学的经典之作，也被翻译成多种语言在世界范围内广泛传播。"},"finish_reason":"stop","index":0}]', 3340261471)
+[38;5;8m2023-04-09 11:03:22[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:03:32[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:05:05[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:06:54[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:07:04[0m [W] [38;5;215;1mcommand[0m rexbtu 请问三国演义是什么
+                        SyntaxError: Unexpected token o in JSON at position 1
+                            at JSON.parse (<anonymous>)
+                            at _Command.<anonymous> (d:\workplace\bot-zzq\external\gpt\src\index.tsx:40:43)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at Array.<anonymous> (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\command\command.ts:285:14)
+                            at _Command.execute (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\command\command.ts:301:22)
+                            at null.<anonymous> (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\session.ts:388:22)
+                            at Session2.withScope (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\session.ts:266:14)
+                            at null.next (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\middleware.ts:312:16)
+                            at null.next (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\middleware.ts:312:16)
+                            at Processor._handleMessage (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\middleware.ts:323:22)
+[38;5;8m2023-04-09 11:07:29[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:07:34[0m [W] [38;5;215;1mcommand[0m rexbtu 请问三国演义是什么
+                        SyntaxError: Unexpected token o in JSON at position 1
+                            at JSON.parse (<anonymous>)
+                            at _Command.<anonymous> (d:\workplace\bot-zzq\external\gpt\src\index.tsx:41:43)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at Array.<anonymous> (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\command\command.ts:285:14)
+                            at _Command.execute (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\command\command.ts:301:22)
+                            at null.<anonymous> (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\session.ts:388:22)
+                            at Session2.withScope (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\session.ts:266:14)
+                            at null.next (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\middleware.ts:312:16)
+                            at null.next (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\middleware.ts:312:16)
+                            at Processor._handleMessage (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\middleware.ts:323:22)
+[38;5;8m2023-04-09 11:08:00[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:08:07[0m [W] [38;5;215;1mcommand[0m rexbtu 请问三国演义是什么
+                        AxiosError: Request failed with status code 400
+                            at null.settle (D:\workplace\bot-zzq\external\gpt\node_modules\axios\lib\core\settle.js:19:12)
+                            at IncomingMessage.handleStreamEnd (D:\workplace\bot-zzq\external\gpt\node_modules\axios\lib\adapters\http.js:556:11)
+                            at IncomingMessage.emit (node:events:402:35)
+                            at endReadableNT (node:internal/streams/readable:1343:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-04-09 11:09:50[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:09:55[0m [W] [38;5;215;1mcommand[0m rexbtu 请问三国演义是什么
+                        AxiosError: Request failed with status code 400
+                            at null.settle (D:\workplace\bot-zzq\external\gpt\node_modules\axios\lib\core\settle.js:19:12)
+                            at IncomingMessage.handleStreamEnd (D:\workplace\bot-zzq\external\gpt\node_modules\axios\lib\adapters\http.js:556:11)
+                            at IncomingMessage.emit (node:events:402:35)
+                            at endReadableNT (node:internal/streams/readable:1343:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-04-09 11:10:47[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:10:53[0m [W] [38;5;215;1mcommand[0m rexbtu 请问三国演义是什么
+                        AxiosError: Request failed with status code 400
+                            at null.settle (D:\workplace\bot-zzq\external\gpt\node_modules\axios\lib\core\settle.js:19:12)
+                            at IncomingMessage.handleStreamEnd (D:\workplace\bot-zzq\external\gpt\node_modules\axios\lib\adapters\http.js:556:11)
+                            at IncomingMessage.emit (node:events:402:35)
+                            at endReadableNT (node:internal/streams/readable:1343:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-04-09 11:11:06[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:11:11[0m [W] [38;5;215;1mcommand[0m rexbtu 请问三国演义是什么
+                        AxiosError: Request failed with status code 400
+                            at null.settle (D:\workplace\bot-zzq\external\gpt\node_modules\axios\lib\core\settle.js:19:12)
+                            at IncomingMessage.handleStreamEnd (D:\workplace\bot-zzq\external\gpt\node_modules\axios\lib\adapters\http.js:556:11)
+                            at IncomingMessage.emit (node:events:402:35)
+                            at endReadableNT (node:internal/streams/readable:1343:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-04-09 11:11:43[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:12:02[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:12:07[0m [W] [38;5;215;1mcommand[0m rexbtu 请问三国演义是什么
+                        AxiosError: Request failed with status code 400
+                            at null.settle (D:\workplace\bot-zzq\external\gpt\node_modules\axios\lib\core\settle.js:19:12)
+                            at IncomingMessage.handleStreamEnd (D:\workplace\bot-zzq\external\gpt\node_modules\axios\lib\adapters\http.js:556:11)
+                            at IncomingMessage.emit (node:events:402:35)
+                            at endReadableNT (node:internal/streams/readable:1343:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-04-09 11:12:25[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:12:30[0m [W] [38;5;215;1mcommand[0m rexbtu 请问三国演义是什么
+                        AxiosError: Request failed with status code 400
+                            at null.settle (D:\workplace\bot-zzq\external\gpt\node_modules\axios\lib\core\settle.js:19:12)
+                            at IncomingMessage.handleStreamEnd (D:\workplace\bot-zzq\external\gpt\node_modules\axios\lib\adapters\http.js:556:11)
+                            at IncomingMessage.emit (node:events:402:35)
+                            at endReadableNT (node:internal/streams/readable:1343:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-04-09 11:12:48[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:13:02[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:17:28[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:18:12[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:18:23[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:18:37[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:18:42[0m [W] [38;5;215;1mcommand[0m rexbtu 请问三国演义是什么
+                        AxiosError: Request failed with status code 400
+                            at null.settle (D:\workplace\bot-zzq\external\gpt\node_modules\axios\lib\core\settle.js:19:12)
+                            at IncomingMessage.handleStreamEnd (D:\workplace\bot-zzq\external\gpt\node_modules\axios\lib\adapters\http.js:556:11)
+                            at IncomingMessage.emit (node:events:402:35)
+                            at endReadableNT (node:internal/streams/readable:1343:12)
+                            at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[38;5;8m2023-04-09 11:19:34[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:19:39[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:21:55[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:22:20[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:22:25[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:22:37[0m [W] [38;5;167;1mwatch[0m { detail: [90mundefined[39m, id: [32m''[39m, location: { column: [33m40[39m, file: [32m'D:\\workplace\\bot-zzq\\external\\gpt\\src\\index.tsx'[39m, length: [33m3[39m, line: [33m67[39m, lineText: [32m'  ctx.command("chatstop").action(async (——) => {'[39m, namespace: [32m''[39m, suggestion: [32m''[39m }, notes: [], pluginName: [32m''[39m, text: [32m'Unexpected "—"'[39m }
+[38;5;8m2023-04-09 11:22:43[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:23:02[0m [W] [38;5;215;1mcommand[0m rexbtu 请问三国演义是什么
+                        TypeError: Cannot read properties of undefined (reading 'chatRecord')
+                            at _Command.<anonymous> (d:\workplace\bot-zzq\external\gpt\src\index.tsx:41:10)
+                            at processTicksAndRejections (node:internal/process/task_queues:96:5)
+                            at Array.<anonymous> (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\command\command.ts:285:14)
+                            at _Command.execute (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\command\command.ts:301:22)
+                            at null.<anonymous> (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\session.ts:388:22)
+                            at Session2.withScope (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\session.ts:266:14)
+                            at null.next (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\middleware.ts:312:16)
+                            at null.next (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\middleware.ts:312:16)
+                            at Processor._handleMessage (D:\workplace\bot-zzq\node_modules\@koishijs\core\src\middleware.ts:323:22)
+[38;5;8m2023-04-09 11:23:36[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:23:42[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:24:02[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:27:57[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:29:08[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:29:28[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:32:39[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:32:56[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:35:48[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:37:35[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
+[38;5;8m2023-04-09 11:38:40[0m [I] [38;5;167;1mwatch[0m reload plugin at [38;5;167mexternal\gpt\src\index.tsx[0m
